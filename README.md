@@ -2,6 +2,14 @@
 
 同步ActionSheet
 
+
+
+![image](https://github.com/hy285585804/HYActionSheet/blob/master/ActionSheet.gif)
+
+
+
+
+
  /** 创建*/
  
  
